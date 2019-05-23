@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Practice Python3
 
 You can use the [editor on GitHub](https://github.com/ty920314/practicePy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
